@@ -12,33 +12,17 @@
 Английский : уровень Intermediate
 
 # Технологии
-* ООП
-* Алгоритмы и структуры данных
-* Docker
-* SQL(PostgreSQL)
-* UML
-* Паттерны
-* Git
+* Общее
+ ООП, Алгоритмы и структуры данных, Docker, SQL(PostgreSQL), UML, Паттерны, Git
 
 * Java
-* JavaFX
-* Java Collections
-* ServerSocket
-* Spring boot
-* Hibernate
-* JDBC, JPA
-* Kafka
-* Maven
-* Gradle
+ JavaFX, Java Collections, ServerSocket, Spring boot, Hibernate, JDBC, JPA, Kafka, Maven, Gradle
 
 * Kotlin
-* ktor 
-* kotlin compose 
-* Jackson 
-* Kotlin Exposed 
+ ktor, kotlin compose , Jackson , Kotlin Exposed 
 
 * Python
-* PyQt5
+ PyQt5
 
 * React
 
