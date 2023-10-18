@@ -13,10 +13,10 @@
 
 # Технологии
 * Общее:
- ООП, Алгоритмы и структуры данных, Docker, SQL(PostgreSQL), UML, Паттерны, Git
+ ООП, Алгоритмы и структуры данных, Docker, SQL(PostgreSQL), UML, Паттерны, Git, Liquibase, PostreSql, Swagger
 
 * Java:
- JavaFX, Java Collections, ServerSocket, Spring boot, Hibernate, JDBC, JPA, Kafka, Maven, Gradle
+ JavaFX, Java Collections, ServerSocket, Spring boot,Spring Security, Hibernate, JDBC, JPA, Kafka, Maven, Gradle, Netty-socketio , 
 
 * Kotlin:
  ktor, kotlin compose , Jackson , Kotlin Exposed 
