@@ -31,7 +31,7 @@
 
 # Проекты
 * [Мобильное приложение на kotlin для продажи билетов  и организации мероприятий](https://github.com/alinashch/TicketEase_frontend).
-* [Упрощенный аналог мессенджера] (https://github.com/alinashch/messenger_relex).
+* [Упрощенный аналог мессенджера](https://github.com/alinashch/messenger_relex).
 * [Сервис для обеспечения работы автоматсерской(backend)](https://github.com/alinashch/avtoservice_hibernate_springMVC)
 
 * [В данный момент занимаюсь разработкой проекта с микросервисной архитектурой с backend на java и frontend на react. В этом проекте также будет возможность покупки билетов, но и дополнительные фич](https://github.com/alinashch/microservice_ticketSeller). -ссылка на проект. Незакончен, но backend часть уже почти сделана
