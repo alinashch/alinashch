@@ -31,17 +31,12 @@
 
 # Проекты
 * [Мобильное приложение на kotlin для продажи билетов  и организации мероприятий](https://github.com/alinashch/TicketEase_frontend).
-* .[Упрощенный аналог мессенджера](https://github.com/alinashch/messenger_relex).
+* [Упрощенный аналог мессенджера](https://github.com/alinashch/messenger_relex).
+* [Rest API, для обеспечения работы магазина(упрощенный вид), микросервисная архитектура.](https://github.com/alinashch/microservice_shop_final). 
 * [Сервис для обеспечения работы автоматсерской](https://github.com/alinashch/avtoservice_hibernate_springMVC)
-
-* [В данный момент занимаюсь разработкой проекта с микросервисной архитектурой с backend на java. В этом проекте также будет возможность покупки билетов, но и дополнительные фич](https://github.com/alinashch/shop_microservice_). 
-
 * [Реализация алгоритма муравьиной колонии, основанного на выборе значения эвристического параметра, контролируемого информационной энтропией](https://github.com/alinashch/MyProject). - код из моей статьи,  там же можно почитать статью.
-
 * [Игра Лудо](https://github.com/alinashch/Game-Ludo-).
-
 * [Игра шахматы](https://github.com/alinashch/SimpleGameChess).
-
 # Контакты
 * Почта : alina280702@mail.ru
 * Телеграмм : https://t.me/AlinaShcherbininaa
